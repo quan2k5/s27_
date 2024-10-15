@@ -1,0 +1,44 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "túi sách",
+            "description": "gọn nhẹ, thân thiện với người dùng",
+            "price": 5,
+            "quantity": 67,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpZL0U3u3mvgen7I-rGdgftONPHdtDnbZccg&s"
+        },
+        {
+            "id": 2,
+            "name": "bút bi",
+            "description": "viết mượt, bền",
+            "price": 1,
+            "quantity": 150,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8BGgWlrPb_NZGrWgdMI5FdWaCXZLmr2S7XQ&s"
+        },
+        {
+            "id": 3,
+            "name": "sách giáo khoa",
+            "description": "nội dung đầy đủ, phù hợp học sinh",
+            "price": 10,
+            "quantity": 34,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYz89VoWZoGyXlfT_QCoWxyjvBEXEg5ksDLg&s"
+        },
+        {
+            "id": 4,
+            "name": "vở kẻ ngang",
+            "description": "chất lượng giấy tốt, giá rẻ",
+            "price": 2,
+            "quantity": 80,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSSBu7eI2poUWiZCVbbiZ9REXhlFEMGeg4Eg&s"
+        },
+        {
+            "id": 5,
+            "name": "balo",
+            "description": "chống nước, phù hợp đi học và đi chơi",
+            "price": 15,
+            "quantity": 22,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3J9Ez9Hw3TGOtCCwqXTZ3G8Z4me9mbp3whg&s"
+        }
+    ]
+}
